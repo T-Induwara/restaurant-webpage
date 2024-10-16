@@ -8,6 +8,7 @@ import InfoIcon from '@mui/icons-material/Info';
 import CommentRoundedIcon from '@mui/icons-material/CommentRounded';
 import PhoneRoundedIcon from '@mui/icons-material/PhoneRounded';
 import ShoppingCartRoundedIcon from '@mui/icons-material/ShoppingCartRounded';
+import About from './About';
 
 function Navbar(){
     const [openMenu,setOpenMenu] = useState(false);
@@ -40,7 +41,7 @@ function Navbar(){
             </div>
             <div className="navbar-links-container">
                 <a href="/">Home</a>
-                <a href="/">About</a>
+                <a href={About}>About</a>
                 <a href="/">Testimonials</a>
                 <a href="/">Contact</a>
                 <a href="/">
