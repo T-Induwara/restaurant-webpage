@@ -8,7 +8,6 @@ import InfoIcon from '@mui/icons-material/Info';
 import CommentRoundedIcon from '@mui/icons-material/CommentRounded';
 import PhoneRoundedIcon from '@mui/icons-material/PhoneRounded';
 import ShoppingCartRoundedIcon from '@mui/icons-material/ShoppingCartRounded';
-import About from './About';
 
 function Navbar(){
     const [openMenu,setOpenMenu] = useState(false);
