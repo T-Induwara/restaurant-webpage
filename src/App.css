@@ -24,6 +24,9 @@ body {
 }
 
 nav {
+  position:fixed;
+  width:85vw;
+  z-index:1000 !important;
   display: flex;
   align-items: center;
   justify-content: space-between;
