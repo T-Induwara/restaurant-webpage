@@ -23,6 +23,9 @@ function Home(){
                         Order now <FiArrowRight/>
                     </button>
                 </div>
+                <div className="home-image-container">
+                    <img src={BannerImage} alt="Banner"></img>
+                </div>
             </div>
         </div>
     )
