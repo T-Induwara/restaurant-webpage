@@ -1,5 +1,8 @@
 import React from 'react';
 import Navbar from './Navbar';
+import BannerBackground from '../assets/home-banner-background.png';
+import BannerImage from '../assets/home-banner-image.png';
+import {FiaArrowRight} from 'react-icons/fi';
 
 function Home(){
     return(
