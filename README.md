@@ -2,6 +2,10 @@
 
 ![React JS](https://i.ibb.co/N3RD9wG/Powered-by-React-JS-200px.png)
 
+## Preview
+
+![Landing page preview](https://i.ibb.co/5rbrwMC/landing-page-preview.png)
+
 This project is a replication project I have developed using React JS as my very first React JS web page with the help of
 [The Hyper Art](https://github.com/thehyperart11) on GitHub and his awesome [YouTube channel](https://youtu.be/GVjIflROwJ4).
 
